@@ -3,6 +3,7 @@
 // @param {number} target
 // @return {number}
 
+// It's OK
 const searchInsert = (nums, target) => {
     let idx = nums.indexOf(target);
 
